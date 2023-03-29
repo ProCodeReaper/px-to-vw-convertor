@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="window_icon.ico" --add-data "*.png;." --add-data "*.ico;." --name "PX to VW converter_2.1" main.py
